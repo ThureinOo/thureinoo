@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on SOC Operations.
-- 🌱 I’m currently learning on Detection Engineering and Threat Hunting.
+- 🔭 I’m currently working as an SOC Engineer.
+- 🌱 What I am focusing on right now is Detection Engineering and Threat Hunting.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
