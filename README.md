@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as SOC Engineer.
-- 🌱 What I am focusing on right now is Detection Engineering and Threat Hunting.
+- 🔭 I’m currently working as Security Analyst and previously worked as SOC Engineer.
+- 🌱 In these days, I'm focusing on Application Security, Windows Internals, Detection Engineering and Threat Hunting.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
