@@ -21,7 +21,7 @@ Cybersecurity analyst with nearly four years of experience across Security Opera
 |-----|--------|--------|
 | [CVE-2026-55480](https://github.com/OpenPrinting/cups/security/advisories/GHSA-jj94-x3qh-ffp9) | OpenPrinting CUPS ≤ 2.4.19 | Symlink TOCTOU in `copy_model()` → arbitrary root file write (`lp` → root) — Medium (5.7) |
 | [CVE-2026-55467](https://github.com/OpenPrinting/cups/security/advisories/GHSA-69qc-prxg-h2c7) | OpenPrinting CUPS ≤ 2.4.19 | Fax option bypasses CVE-2026-34980 control-char sanitizer (incomplete fix) — Low (2.5) |
-| CVE-2026-XXXX *(pending)* | accountsservice / systemd-homed | Arbitrary root file read via `SetIconFile` homed path → local privilege escalation — Medium (6.1) |
+| [CVE-2026-16743](https://access.redhat.com/security/cve/cve-2026-16743) | accountsservice / systemd-homed | Arbitrary root file read via `SetIconFile` homed path → local privilege escalation — Medium (6.1) |
 
 > Full writeups: [`Security-Research`](https://github.com/ThureinOo/Security-Research)
 
